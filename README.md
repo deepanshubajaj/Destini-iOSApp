@@ -27,6 +27,22 @@ To run this project locally:
 
 > Make sure you have Xcode installed and configured properly to run the project.
 
+## Story Outline :
+
+<p align="center">
+  <img src="ProjectOutputs/Document/storyOutline.png" alt="Story Outline" />
+</p>
+<p align="center">
+  *Snapshot for Story line.*
+</p>
+
+<p align="center">
+  <a href="ProjectOutputs/Document/storyOutline.pdf" download>Download PDF</a>
+</p>
+<p align="center">
+  *Pdf for Story Line.*
+</p>
+
 ## App Look :
 
 <p align="center">
